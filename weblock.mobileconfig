@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string>PUT YOUR WEBLOCK URL HERE</string>
+			<string>127.0.0.1</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
